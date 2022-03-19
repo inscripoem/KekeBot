@@ -35,6 +35,7 @@ class PluginConfig(BaseModel):
     liqingge_flag: bool = True
     hoshizora_flag: bool = True
     sakura_flag: bool = True
+    univirtual_flag: bool = True
 
 
 driver = nonebot.get_driver()

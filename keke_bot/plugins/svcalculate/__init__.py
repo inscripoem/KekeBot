@@ -43,7 +43,7 @@ async def _(event: Event, msg: Message = CommandArg()):
     fixc = (view + favcoin) / (view + favcoin + reply*10 + danmaku*25)
     fixc = float(format(fixc, '.3f'))
     score = round((view + share*50 + like*30)*fixa + favcoin*fixb + (reply*10 + danmaku*25)*fixc)
-    result = f"计算完成，总分为{score}，其中修正A为{fixa}，修正B为{fixb}，修正C为{fixc}\n此结果不一定准确，请以周刊实际为准"
+    result = f"计算完成，总分为{score}，其中修正A为{fixa}，修正B为{fixb}，修正C为{fixc}\n此结果不一定准确，请以周刊实际为准\n"
     await SVcal.finish(result)
 
 
