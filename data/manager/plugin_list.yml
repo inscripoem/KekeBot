@@ -55,6 +55,6 @@ random_cat_gif:
   user: {}
 svcalculate:
   group: {}
-  mode: '311'
-  status: false
+  mode: '755'
+  status: true
   user: {}
