@@ -336,6 +336,23 @@ cli = ["click (>=8.0.0,<9.0.0)", "rich (>=10.0.0,<11.0.0)", "pygments (>=2.0.0,<
 http2 = ["h2 (>=3,<5)"]
 
 [[package]]
+name = "httpx-socks"
+version = "0.7.3"
+description = "Proxy (HTTP, SOCKS) transports for httpx"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+httpcore = ">=0.14.0,<0.15.0"
+httpx = ">=0.21.0,<0.23.0"
+python-socks = ">=2.0.0"
+
+[package.extras]
+asyncio = ["async-timeout (>=3.0.1)"]
+trio = ["trio (>=0.16.0)"]
+
+[[package]]
 name = "idna"
 version = "3.3"
 description = "Internationalized Domain Names in Applications (IDNA)"
@@ -819,6 +836,20 @@ text-unidecode = ">=1.3"
 unidecode = ["Unidecode (>=1.1.1)"]
 
 [[package]]
+name = "python-socks"
+version = "2.0.3"
+description = "Core proxy (SOCKS4, SOCKS5, HTTP tunneling) functionality for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.extras]
+anyio = ["anyio (>=3.3.4)"]
+asyncio = ["async-timeout (>=3.0.1)"]
+curio = ["curio (>=1.4)"]
+trio = ["trio (>=0.16.0)"]
+
+[[package]]
 name = "pytz"
 version = "2022.1"
 description = "World timezone definitions, modern and historical"
@@ -844,14 +875,6 @@ description = "YAML parser and emitter for Python"
 category = "main"
 optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*"
-
-[[package]]
-name = "random-cat-gif"
-version = "1.0.0"
-description = "Who doesnt like a funny cat gif?"
-category = "main"
-optional = false
-python-versions = "*"
 
 [[package]]
 name = "requests"
@@ -1073,7 +1096,7 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10.2"
-content-hash = "36f97f90abc309a9adff25b37667a52edefecafe9f9c6e26a86fb530c9772aa1"
+content-hash = "395546e01d544df0ab538ee28a1cc7b0fe2c6e6580d6f94ad80a1b02f3a387e5"
 
 [metadata.files]
 aiocache = [
@@ -1360,6 +1383,10 @@ httptools = [
 httpx = [
     {file = "httpx-0.21.3-py3-none-any.whl", hash = "sha256:df9a0fd43fa79dbab411d83eb1ea6f7a525c96ad92e60c2d7f40388971b25777"},
     {file = "httpx-0.21.3.tar.gz", hash = "sha256:7a3eb67ef0b8abbd6d9402248ef2f84a76080fa1c839f8662e6eb385640e445a"},
+]
+httpx-socks = [
+    {file = "httpx-socks-0.7.3.tar.gz", hash = "sha256:da434b2a8bbfa97de30d14edd7f18e603aaade6a9aeb4227be16ae42be1df860"},
+    {file = "httpx_socks-0.7.3-py3-none-any.whl", hash = "sha256:08cc3462e003ff04204762b3768eb287f465bc01457d838b5c2849bec83fec65"},
 ]
 idna = [
     {file = "idna-3.3-py3-none-any.whl", hash = "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff"},
@@ -1789,6 +1816,10 @@ python-slugify = [
     {file = "python-slugify-6.1.1.tar.gz", hash = "sha256:00003397f4e31414e922ce567b3a4da28cf1436a53d332c9aeeb51c7d8c469fd"},
     {file = "python_slugify-6.1.1-py2.py3-none-any.whl", hash = "sha256:8c0016b2d74503eb64761821612d58fcfc729493634b1eb0575d8f5b4aa1fbcf"},
 ]
+python-socks = [
+    {file = "python-socks-2.0.3.tar.gz", hash = "sha256:e3a9ca8e554733862ce4d8ce1d10efb480fd3a3acdafd03393943ec00c98ba8a"},
+    {file = "python_socks-2.0.3-py3-none-any.whl", hash = "sha256:950723f27d2cf401e193a9e0a0d45baab848341298f5b397d27fda0c4635e9a9"},
+]
 pytz = [
     {file = "pytz-2022.1-py2.py3-none-any.whl", hash = "sha256:e68985985296d9a66a881eb3193b0906246245294a881e7c8afe623866ac6a5c"},
     {file = "pytz-2022.1.tar.gz", hash = "sha256:1e760e2fe6a8163bc0b3d9a19c4f84342afa0a2affebfaa84b01b978a02ecaa7"},
@@ -1827,10 +1858,6 @@ pyyaml = [
     {file = "PyYAML-5.4.1-cp39-cp39-win32.whl", hash = "sha256:49d4cdd9065b9b6e206d0595fee27a96b5dd22618e7520c33204a4a3239d5b10"},
     {file = "PyYAML-5.4.1-cp39-cp39-win_amd64.whl", hash = "sha256:c20cfa2d49991c8b4147af39859b167664f2ad4561704ee74c1de03318e898db"},
     {file = "PyYAML-5.4.1.tar.gz", hash = "sha256:607774cbba28732bfa802b54baa7484215f530991055bb562efbed5b2f20a45e"},
-]
-random-cat-gif = [
-    {file = "random_cat_gif-1.0.0-py3-none-any.whl", hash = "sha256:ba7abda95c69249e28b97c54443a88330683831a9f9fb5270e3b8366f7be63d2"},
-    {file = "random_cat_gif-1.0.0.tar.gz", hash = "sha256:936812db33b8da135af019830fe21a2e1c88d9cb3cf82ebe7a9397d4794773a9"},
 ]
 requests = [
     {file = "requests-2.27.1-py2.py3-none-any.whl", hash = "sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d"},

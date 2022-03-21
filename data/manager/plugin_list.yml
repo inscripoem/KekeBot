@@ -3,20 +3,10 @@ bilitag:
   mode: '311'
   status: false
   user: {}
-chokelate:
-  group: {}
-  mode: '311'
-  status: false
-  user: {}
 echo:
   group: {}
   mode: '755'
   status: true
-  user: {}
-morning:
-  group: {}
-  mode: '311'
-  status: false
   user: {}
 nonebot_plugin_alias:
   group: {}
@@ -64,7 +54,9 @@ nonebot_plugin_withdraw:
   status: true
   user: {}
 random_cat_gif:
-  group: {}
+  group:
+    386047651: 5
+    720386182: 5
   mode: '755'
   status: true
   user: {}
