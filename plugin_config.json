@@ -6,8 +6,7 @@
     "nonebot_plugin_status",
     "nonebot_plugin_crazy_thursday",
     "nonebot_plugin_alias",
-    "nonebot_plugin_petpet",
-    "nonebot_plugin_htmlrender"
+    "nonebot_plugin_petpet"
 
   ],
   "plugin_dirs" : ["keke_bot/plugins"]
