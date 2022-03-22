@@ -8,16 +8,17 @@ from nonebot import logger
 
 async def get_cat():
     async with AsyncClient() as client:
-        req_url = "https://edgecats.net/"
+        req_url = "https://api.thecatapi.com/v1/images/search"
+        params = {'mime_types': 'gif'}
         try:
-            res = await client.get(req_url, timeout=120)
-            logger.info(res)
+            res = await client.get(req_url, params=params, timeout=120)
+            logger.info(res.json())
         except httpx.HTTPError as e:
             logger.warning(e)
             return [False, f"API异常{e}", '', '']
         try:
-            img_url = res.headers['X-Cat-Link']
-            content = res.content
+            img_url = res.json()[0]['url']
+            content = await down_pic(img_url)
             img_base64 = convert_b64(content)
             if type(img_base64) == str:
                 pic_cq = "[CQ:image,file=base64://" + img_base64 + "]"
