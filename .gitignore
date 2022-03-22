@@ -117,8 +117,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.idea/KekeBot.iml
-.idea/misc.xml
+.idea/
 
 # Spyder project settings
 .spyderproject
