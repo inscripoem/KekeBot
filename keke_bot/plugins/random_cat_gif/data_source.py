@@ -70,6 +70,32 @@ async def get_fox():
             return [False, f"{exc_info()[0]} {exc_info()[1]}。", '', '']
 
 
+async def get_else(cat: str):
+    async with AsyncClient() as client:
+        req_url = "https://api.lolicon.app/setu/v2"
+        json = {
+            "r18": 0,
+            "tag": cat,
+            "proxy": "i.pixiv.re"
+        }
+        try:
+            res = await client.post(url=req_url, json=json, timeout=120)
+            logger.info(res.json())
+        except httpx.HTTPError as e:
+            logger.warning(e)
+            return [False, f"API异常{e}", '', '']
+        try:
+            img_url = res.json()['data'][0]['urls']['original']
+            content = await down_pic(img_url)
+            img_base64 = convert_b64(content)
+            if type(img_base64) == str:
+                pic_cq = "[CQ:image,file=base64://" + img_base64 + "]"
+            return [True, '', pic_cq, img_url]
+        except:
+            logger.warning(f"{exc_info()[0]}, {exc_info()[1]}")
+            return [False, f"{exc_info()[0]} {exc_info()[1]}。", '', '']
+
+
 async def down_pic(url):
     async with AsyncClient() as client:
         headers = {
