@@ -81,6 +81,8 @@ async def get_else(cat: str):
         try:
             res = await client.post(url=req_url, json=json, timeout=120)
             logger.info(res.json())
+            if not res.json()['data']:
+                return [False, f'没有搜素到和{cat}有关的图捏']
         except httpx.HTTPError as e:
             logger.warning(e)
             return [False, f"API异常{e}", '', '']
