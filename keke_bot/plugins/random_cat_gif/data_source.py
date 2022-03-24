@@ -82,13 +82,15 @@ async def get_else(cat: str):
             res = await client.post(url=req_url, json=json, timeout=120)
             logger.info(res.json())
             if not res.json()['data']:
-                return [False, f'没有搜素到和{cat}有关的图捏']
+                return [False, f'没有搜素到和{cat}有关的图捏', '', '']
         except httpx.HTTPError as e:
             logger.warning(e)
             return [False, f"API异常{e}", '', '']
         try:
             img_url = res.json()['data'][0]['urls']['original']
             content = await down_pic(img_url)
+            if type(content) == int:
+                return [False, f'获取图片失败，{content}了捏', '', '']
             img_base64 = convert_b64(content)
             if type(img_base64) == str:
                 pic_cq = "[CQ:image,file=base64://" + img_base64 + "]"
