@@ -1,12 +1,5 @@
-# keke-bot
+# 科科Bot
+基于Mirai与Nonebot v2实现的奇奇怪怪的机器人，本仓库为nonebot部分  
+功能还在不断开发中，暂时算作私人repo所以很抱歉无法提供文档，但是你可以B站关注@华小科Official来缓解一下
 
-## How to start
 
-1. generate project using `nb create` .
-2. create your plugin using `nb plugin create` .
-3. writing your plugins under `keke_bot/plugins` folder.
-4. run your bot using `nb run` .
-
-## Documentation
-
-See [Docs](https://v2.nonebot.dev/)
