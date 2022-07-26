@@ -1,0 +1,144 @@
+aiocache @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/33/8c/b2/0ff259db4b8493428ae9bc974abfebe5e8b94d18f5da7b34f641467de4/aiocache-0.11.1-py2.py3-none-any.whl
+aiofiles @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/7c/0a/35/bcf42673db61a9a458182d62e42a08bba5277670124cc981eadf62e0ee/aiofiles-0.8.0-py3-none-any.whl
+aiohttp @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/09/b5/13/afc90bcdb4580e173edf81013eb1061eddb15ecc39b39b003a493f33da/aiohttp-3.8.1-cp39-cp39-win_amd64.whl
+aiosignal @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/d3/d7/92/f7aa28b137b4b00e62270f58330cedde299917a71a3c00ee64913aa3c2/aiosignal-1.2.0-py3-none-any.whl
+anti-useragent==1.0.8
+anyio @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/3c/2e/0f/4a21a63af045159f769fb9feb820775a682870a69ff8b9b1f3f66304e2/anyio-3.5.0-py3-none-any.whl
+APScheduler @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/1b/ca/a8/84f049bf11775cc1bb7136d32366f2d317c71ec82ac50f9111daa4dbb6/APScheduler-3.9.1-py2.py3-none-any.whl
+arrow @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/37/ee/f5/88e53003b44bae5203d61dcce0d644167237eb9db5b186d13d3a3e3d27/arrow-1.2.2-py3-none-any.whl
+asgiref @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/97/19/96/6fe4e79be71b46c24f8ad1d77086edd058efc60976b764fcac45c2e160/asgiref-3.5.0-py3-none-any.whl
+async-timeout @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/62/ff/30/bd0ec891880d93bf40cf6e7c53ab08dd9eb6af45fa532c030731e6eed0/async_timeout-4.0.2-py3-none-any.whl
+asyncio-dgram @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/ee/95/1a/3dc34c4dd2aa0be420d97d22a633e660d24f02e92cb787a62e4929da17/asyncio_dgram-2.1.2-py3-none-any.whl
+attrs @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/5b/25/94/5d165cd3190cb7dfdc98de86c28e8131fc6e19d83a504412664abffec0/attrs-21.4.0-py2.py3-none-any.whl
+baike @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/e1/8c/92/751f00696f0f9783d797d92cf790064e92d77dfd88580db42cb4338524/baike-1.5.0-py3-none-any.whl
+beautifulsoup4==4.10.0
+binaryornot @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/8e/ec/4a/6a39c67c0c9d5d3458128e6a71559878d043a113945a6afce5ea132865/binaryornot-0.4.4-py2.py3-none-any.whl
+CacheControl==0.12.10
+cachetools @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/8a/c3/ee/4c03d5398d7858010aa0573d8e7ef7d1ff2a39ee05b48344ca931bb3a4/cachetools-5.0.0-py3-none-any.whl
+cachy==0.3.0
+certifi==2021.10.8
+chardet @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/11/63/f9/797eda27963177a6b75a340f62aa194d462ea69e6b0dbb77a651fa2b62/chardet-4.0.0-py2.py3-none-any.whl
+charset-normalizer==2.0.12
+cleo==0.8.1
+click @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/fb/bd/e7/ac3267cdaa4ac3cfcde3b3d14d7d2b92aaf38d8a34437d49e873b8289e/click-8.0.4-py3-none-any.whl
+clikit==0.6.2
+colorama @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/9e/b3/11/7d87ac44fdb2d557301f1f4086a37c080d1482a98751abe7cdbabbad26/colorama-0.4.4-py2.py3-none-any.whl
+cookiecutter @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/b7/d8/f7/a53a221e1e6a900e234c3f1570b039726f7c068938d14d2f86fd363ee6/cookiecutter-1.7.3-py2.py3-none-any.whl
+cos-python-sdk-v5 @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/34/a3/c7/9e0729724e8bb87aa2aa3e68628a6979e478b6c8ae00ca30e2be7b0d03/cos_python_sdk_v5-1.9.15-py3-none-any.whl
+crashtest==0.3.1
+crcmod @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/e4/d0/84/b76f7ea99618bdcf27f871b8fec91cbbf889df164886cabba12567ecf4/crcmod-1.7.tar.gz
+Deprecated @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/02/6c/d9/698c9c1be5d7e779bb2ff730bae7fb601b8d636233ca2ba1548761a514/Deprecated-1.2.13-py2.py3-none-any.whl
+dicttoxml @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/cb/f8/56/d64d2813a206a09b4e132faacb6d0f9d82379a209f018087c3ad32acdc/dicttoxml-1.7.4.tar.gz
+distlib==0.3.4
+dnspython @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/83/1d/90/05a24fb4711e8c48b81604d2b14acca2e097b7f788587b6130cb528d1d/dnspython-2.2.1-py3-none-any.whl
+expandvars @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/00/ef/00/efbfefe544bf051718a1ce2424b410688fd330c68a7634a0685b516d6a/expandvars-0.7.0-py3-none-any.whl
+fastapi @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/ef/e5/08/dff94d6fd8db49b7527363b834cfcb78b4edc10815d0145e43bd020491/fastapi-0.73.0-py3-none-any.whl
+feedparser @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/d1/81/87/0f3c1c0b02176b2bf05af85261d8ce7522e4d241e5d9f7b3f0ec4f2a10/feedparser-6.0.8-py3-none-any.whl
+filelock==3.6.0
+frozenlist @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/7c/34/c9/88d0166880dcdb9b8c251dcff7dd9032ff93b6998b1276a7a0ecdd8845/frozenlist-1.3.0-cp39-cp39-win_amd64.whl
+greenlet @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/96/8d/f7/671708c8a74421219834f29d18b91ea14778bac2a0eebb6a4ad52f068a/greenlet-1.1.2-cp39-cp39-win_amd64.whl
+h11 @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/bc/67/35/dab5a305c7a43c7a517d86674f35006dbb43c6746d19f419698f568164/h11-0.12.0-py3-none-any.whl
+html5lib==1.1
+httpcore==0.13.7
+httptools @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/90/fc/73/5efcbdefefe11a5465723543578ee26efab2a654e772890b636b68b480/httptools-0.4.0-cp39-cp39-win_amd64.whl
+httpx==0.20.0
+idna==3.3
+imageio @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/23/7c/c3/4315cdb708b861f7a9434ba0954a053f0367d56e3eb8807c0a481f66cb/imageio-2.16.1-py3-none-any.whl
+importlib-metadata==4.11.3
+jaraco.context @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/0e/94/4d/145d9403e1110b717aab23dc2027a3812cd6fbdfc37049219f02a2fa50/jaraco.context-4.1.1-py3-none-any.whl
+Jinja2 @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/3b/12/80/ed05a8559d6ad1e85324dbcebfe790670d339c674fb15c419b29aae138/Jinja2-3.0.3-py3-none-any.whl
+jinja2-time @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/05/fa/75/82cd3748ea278d987048ca0e00ba67f5175a57e285f318719a3d0fdf0b/jinja2_time-0.2.0-py2.py3-none-any.whl
+keke-bot==0.1.0
+keyring==23.5.0
+langid @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/43/77/96/4d48330b0093712abd62dd3311af4c201e2c245a2c38b77b2df72647f5/langid-1.1.6.tar.gz
+lockfile==0.12.2
+loguru @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/af/c5/2e/90fa5f415cade87a24f804aa29454a5263fa93efb5f9568878194ebad1/loguru-0.6.0-py3-none-any.whl
+lxml @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/7d/36/d1/f6dcf1251566dae975eb4a6825c0477021be19124d19facc87657778cc/lxml-4.8.0-cp39-cp39-win_amd64.whl
+Markdown @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/fc/26/f1/2ba5193b2fd5569448a2a5643e95b2bbdf1baa1853e6290e5976eeb562/Markdown-3.3.6-py3-none-any.whl
+MarkupSafe @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/0d/39/c5/934bea1d1da42f89497a3cf6083991ea9da3f6c323d19dbb31655ae920/MarkupSafe-2.1.1-cp39-cp39-win_amd64.whl
+mcstatus @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/31/60/cd/fb480d9db8c76dec1ac017c60966278e997ae156d24f750161ccc7f416/mcstatus-6.5.0-py3-none-any.whl
+more-itertools @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/a6/67/cb/fbf4fb4bbfedae39080e351b12ca64287d47c839769eeaf91434f3274c/more_itertools-8.12.0-py3-none-any.whl
+msgpack==1.0.3
+multidict @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/af/7d/1f/9b6fadf550596bcdd8ee34b77fe22398fe7cd22f281c3b67d7d0bc21c7/multidict-6.0.2-cp39-cp39-win_amd64.whl
+nb-cli @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/c3/73/2c/4cd8b2ada4f5c9f78fa5f0073fd7ec59fe21ca20bfb1d10d54840ef38a/nb_cli-0.6.6-py3-none-any.whl
+nonebot-adapter-onebot @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/f9/05/db/beb7fff4cecc1fb62e20348fcb88d3327d94f2f798b24d0eed611e2ac8/nonebot_adapter_onebot-2.0.0b1-py3-none-any.whl
+nonebot-plugin-alias @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/22/f4/16/ded13b2c66fc606b96de222dfb16328f0c58d4e82f6fdff843c4aff62f/nonebot_plugin_alias-0.3.0-py3-none-any.whl
+nonebot-plugin-apscheduler @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/57/e9/c5/52df21ab04ff296c9b19b0036f46364922e904e884ee39b9bfb9b79fea/nonebot_plugin_apscheduler-0.1.2-py3-none-any.whl
+nonebot-plugin-asoulcnki==0.2.0
+nonebot-plugin-auto-teenstudy==0.1.2
+nonebot-plugin-crazy-thursday @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/f4/4e/a1/41b30ced8afad58ae233e414d732c7a49203b0198479672caccf38044d/nonebot_plugin_crazy_thursday-0.2.1-py3-none-any.whl
+nonebot-plugin-ddcheck==0.1.1
+nonebot-plugin-heisi @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/12/12/ce/6a9f89c1553bc945817beea0284413e120aa4b3a23f8832097321813c6/nonebot_plugin_heisi-0.3.0-py3-none-any.whl
+nonebot-plugin-htmlrender @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/ad/3f/e6/718c24d2b397c49aeb2d54b909dcf81de5767594b3a4e77d10ee9b5488/nonebot_plugin_htmlrender-0.0.4.5-py3-none-any.whl
+nonebot-plugin-manager @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/27/33/41/2e47e70d63ca82e96a7ce40dffa7ebd9ac56963c194206c55f57ee2308/nonebot_plugin_manager-0.5.9-py3-none-any.whl
+nonebot-plugin-petpet @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/c2/df/ee/31950459a1c365ff8bca29e30281b0801b3a6983dc4f3faf4cd9f153c9/nonebot_plugin_petpet-0.2.11-py3-none-any.whl
+nonebot-plugin-setu-now==0.1.0
+nonebot-plugin-status @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/c7/11/b7/a4a34545ebd9e524d624fdb3271d14c2882d106a93cc98618153c99a91/nonebot_plugin_status-0.3.0-py3-none-any.whl
+nonebot-plugin-withdraw @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/8d/aa/46/9389bd6df2e78fb56bc2cc078aeb296fb1fb95e8c2efa4b818229f550c/nonebot_plugin_withdraw-0.2.0-py3-none-any.whl
+nonebot2 @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/e1/9d/43/3b6a6da80c789179bf8dd2b0b59a74239aaf14f29602d41387edd54c57/nonebot2-2.0.0b2-py3-none-any.whl
+numpy @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/ef/ac/61/34a2618218598630a80e3777f5b470efd6199e1ae501d573571544e82c/numpy-1.22.3-cp39-cp39-win_amd64.whl
+opencv-python-headless @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/23/84/37/42ee3ae7933d122bfd83f0d4236aee6b3325836bf7b0684b16dd384c0a/opencv_python_headless-4.5.5.64-cp36-abi3-win_amd64.whl
+packaging==20.9
+pastel==0.2.1
+pexpect==4.8.0
+Pillow @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/10/85/66/53093779bdb1918621cf818757d0840f8ac93b9a4e73a4b6a9eae1be65/Pillow-9.0.1-cp39-cp39-win_amd64.whl
+PixivPy-Async @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/94/8e/27/7ecc6809500f061363c7925e842ab09375a3ff5694b33bfdea2691b1cc/PixivPy_Async-1.2.14-py3-none-any.whl
+pkginfo==1.8.2
+platformdirs==2.5.1
+playwright @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/5a/11/2d/cbaabec801efc9e1e80a3fa7ef3115950847aee216dad444ae20a26034/playwright-1.20.0-py3-none-win_amd64.whl
+poetry==1.1.13
+poetry-core==1.0.8
+poyo @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/9f/d8/68/189b78419ca671e8661d6b4a7f74dbed1adc626545a94bf28b98272371/poyo-0.5.0-py2.py3-none-any.whl
+prompt-toolkit @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/10/eb/01/0c438e83f168b89ab07bda4768ab09d84c4650eda85acaf3bdc78248ae/prompt_toolkit-3.0.28-py3-none-any.whl
+psutil @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/75/5d/3f/776114f69d9fcfbfa0c114345a09bd111f8fffa4e6204aa98fcbe1662e/psutil-5.9.0-cp39-cp39-win_amd64.whl
+ptyprocess==0.7.0
+pycryptodome @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/68/b4/e7/0efcdb83492673541747c9559412a675c358a78272fffaf22ae6f826b0/pycryptodome-3.14.1-cp35-abi3-win_amd64.whl
+pydantic @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/04/f2/75/ecdd410245daccf980abc21513c35ea22105b68f49bd6bbda0cd571888/pydantic-1.9.0-cp39-cp39-win_amd64.whl
+pydub @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/ad/d7/17/eb19f905c5601f4b41a12e7f575f247e61e2ae67d168799370415a9bcc/pydub-0.25.1-py2.py3-none-any.whl
+pyee @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/d6/33/fa/f927bfe99a83f212172581072725910a838952b5f3089d2982ba527846/pyee-8.1.0-py2.py3-none-any.whl
+pyfiglet @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/10/56/cc/9f77e2df18035b244be9c29be83ee00efd4bd4ca461a250ca9245a966e/pyfiglet-0.8.post1-py2.py3-none-any.whl
+Pygments @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/eb/89/d1/4faa7ff8e87642649c25d60a15480ea042f1cff3c237ad940149669cbf/Pygments-2.11.2-py3-none-any.whl
+pygtrie @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/5c/9d/a2/deb0808e2dbd697648e33d82b8c5ef012a1151bfc95d969add519b2314/pygtrie-2.4.2.tar.gz
+pylev==1.4.0
+pymdown-extensions @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/ff/97/0a/bef3b68c9224b6cea546c2a7ff1a31c4199db169af6478529261163869/pymdown_extensions-9.3-py3-none-any.whl
+pyparsing==3.0.7
+python-dateutil @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
+python-dotenv @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/5b/d0/1b/25c6bbc2c828652b337720dc85e45350ab608aae80057b49ce5c6a0c7b/python_dotenv-0.19.2-py2.py3-none-any.whl
+python-Levenshtein-wheels @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/b3/6c/b7/9fee9be82c376d984865bf9d1a1dbd8f4fb34fc99b865dacbb445334f8/python_Levenshtein_wheels-0.13.2-cp39-cp39-win_amd64.whl
+python-markdown-math @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/cc/54/a0/b86c943f51b846156b29b0f2488ed6a69ae8e7137b7cb9c18d094e0906/python_markdown_math-0.8-py3-none-any.whl
+python-slugify @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/26/60/f8/a441c9fdba2f1c5f992057fd43b6ccb5302a4886f17f4cde9d43a718f6/python_slugify-6.1.1-py2.py3-none-any.whl
+pytz @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/fb/60/46/e704d81037c87ab74c6677ae79ab43dda85c31e3ae38f53c44486b593a/pytz-2022.1-py2.py3-none-any.whl
+pytz-deprecation-shim @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/3a/d6/49/88d13233f48d022d644aca3a5eaf48d5ab7c9273ed9874e3b46f783ea5/pytz_deprecation_shim-0.1.0.post0-py2.py3-none-any.whl
+pywin32-ctypes==0.2.0
+PyYAML @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/b9/e9/82/65a26ab81c9c52760322f10f23af03c060ce99f121aaa0422853fcef38/PyYAML-6.0-cp39-cp39-win_amd64.whl
+requests==2.27.1
+requests-toolbelt==0.9.1
+rfc3986 @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/d8/81/cb/edf693777f4e4262771048d0f39711ad08a38d6a1c049c0426f5783791/rfc3986-1.5.0-py2.py3-none-any.whl
+sgmllib3k @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/48/41/c1/47c574e94f31057312eab350c2a7e7b75d1105eb5b673a14efe485c128/sgmllib3k-1.0.0.tar.gz
+shellingham==1.4.0
+six==1.16.0
+sniffio @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/d5/26/da/4c1b03b71c2d3fdf83bb7c73a0ddb8cf8071e4633d6d1193909c780cc2/sniffio-1.2.0-py3-none-any.whl
+soupsieve==2.3.2.post1
+starlette @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/7a/39/a4/08cf694200ec5a925ad222b8d2ee44f3ad6818e877a8f5bfc20d612123/starlette-0.17.1-py3-none-any.whl
+tencentcloud-sdk-python @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/de/b8/72/c885984e5d644027d4a032b4302c31b42ac7ea8af1a34930cbf7dd88a5/tencentcloud_sdk_python-3.0.604-py2.py3-none-any.whl
+text-unidecode @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/34/f9/c2/484c44b08bab89d472229bbd257fcc1d1c6273ee027f01cb08c4e3c309/text_unidecode-1.3-py2.py3-none-any.whl
+thefuzz @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/78/1f/0f/fd81878d29bb46172739df655ab47c613f0127c735efc52134a5fde01b/thefuzz-0.19.0-py2.py3-none-any.whl
+tomlkit @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/61/23/6d/25de95f83f47c701e8cf2dcc0161f987c9f821d6a2d2107537737b8408/tomlkit-0.9.2-py3-none-any.whl
+typing_extensions @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/9b/2e/e0/f2f5524348ab0c59b31fc2526543d60a53583608f35a4574a4978f5358/typing_extensions-4.1.1-py3-none-any.whl
+tzdata @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/84/84/ee/e244d61e3704397a6ab9fc569c96b67a525fbb9e0ddcc5ef59efd23c25/tzdata-2022.1-py2.py3-none-any.whl
+tzlocal @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/e4/be/79/4a190bc829b58ebaf5bcf399cb01f0df2494cc2d75ddf25256278f9e58/tzlocal-4.1-py3-none-any.whl
+ujson==5.4.0
+urllib3==1.26.9
+uvicorn @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/6c/f2/b0/f9a7e82f13a3fd621d92f00df39d22857e40414a8375ae665d28014b79/uvicorn-0.17.6-py3-none-any.whl
+virtualenv==20.13.4
+watchgod @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/e4/c7/81/39e6502a80d404a31fde1e7dd3068f78337c0ca1630b4d6a2622098e89/watchgod-0.8.1-py3-none-any.whl
+wcwidth @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
+webdav4==0.9.5
+webencodings==0.5.1
+websockets @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/06/94/54/958f72096977b239f339e9dd8bed381a0909ff89f42f907dcea375260b/websockets-10.1-cp39-cp39-win_amd64.whl
+win32-setctime @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/0f/26/41/f22379348f3960ad86552f63a91baf0621a8648d7f18de9c0e0892a1ee/win32_setctime-1.1.0-py3-none-any.whl
+wolframalpha @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/6c/7c/b9/4f318cbfc5aecf49c9fcd7fe6a306cc14def026ee5cbaa79c1f4cb0f3d/wolframalpha-5.0.0-py3-none-any.whl
+wrapt @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/4d/08/7d/701aabd9bb59e3f33c7c13dd84220652a8348c724092370d253d2de0ac/wrapt-1.14.0-cp39-cp39-win_amd64.whl
+xmltodict @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/f9/75/d8/1eb7ae0144a737ba8e5ffd2ecd983e38ca4a47f72ed4afec894d92b547/xmltodict-0.12.0-py2.py3-none-any.whl
+yarl @ file:///C:/Users/inscripoem/AppData/Local/pypoetry/Cache/artifacts/66/f1/dc/c602618a002143c6b412e09a989fdc02f48c60d75c77f8343e74f2afb1/yarl-1.7.2-cp39-cp39-win_amd64.whl
+zipp==3.7.0
