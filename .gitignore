@@ -141,6 +141,6 @@ dmypy.json
 .pytype/
 
 # plugins cache
-resources/fortune
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python
